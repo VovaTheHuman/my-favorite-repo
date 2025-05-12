@@ -24,26 +24,32 @@ MedServ API забезпечує надійний інтерфейс для ро
 
 1. Клонуйте репозиторій:
 
-```bash
-git clone https://github.com/your-org/medserv_api.git
-cd medserv_api
-```
+    ```bash
+    git clone https://github.com/your-org/medserv_api.git
+    cd medserv_api
+    ```
 
 2. Встановіть залежності:
 
-```mix deps.get
-```
+    ```bash
+    mix deps.get
+    ```
 
 3. Налаштуйте базу даних:
 
-```mix ecto.create
-mix ecto.migrate
-```
-    
+    ```bash
+    mix ecto.create
+    mix ecto.migrate
+    ```
+
 4. Запустіть сервер:
 
-```mix phx.server
-```
+    ```bash
+    mix phx.server
+    ```
+
+Після запуску сервера API буде доступне за адресою:  
+[http://localhost:4000](http://localhost:4000)
 
 Сервер буде доступний за адресою: http://localhost:4000
 
