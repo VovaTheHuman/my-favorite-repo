@@ -4,9 +4,5 @@ Watermelon
 Night at Museum
 Ice Age
 Shrek
-<<<<<<< HEAD
 CHICKEN JOCKEY!
-=======
 Madagascar
-
->>>>>>> 22caf4bc38a7df268b16c89598aa35d438f8d0fd
